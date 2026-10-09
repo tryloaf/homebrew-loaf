@@ -1,6 +1,6 @@
 cask "loaf" do
   version "1.0.0,13"
-  sha256 "4bda47cee5426eb471aa4806f37f12af50a8389162032924eb9818b6939840a8"
+  sha256 "d4df5b2642577201d499d88c96e409ddd9686f4e07ae35c3fa0f5f8368743b9e"
 
   url "https://downloads.tryloaf.app/loaf/loaf-#{version.csv.first}-#{version.csv.second}.dmg"
   name "loaf"
